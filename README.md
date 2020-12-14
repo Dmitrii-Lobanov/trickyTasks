@@ -7,7 +7,7 @@ Find the number of 0s. Count the number of zeroes in the given array.
 
 Examples :
 
-```
+```js
 Input: arr[] = {1, 1, 1, 1, 0, 0}
 Output: 2
 
