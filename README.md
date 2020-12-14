@@ -23,7 +23,7 @@ Input: [1, 1, 1, 1]
 Output: 0
 ```
 
-##Count Occurences##
+## Count Occurences
 Given a sorted array arr[] and a number x, write a function that counts 
 the occurrences of x in arr[]. 
 Required time complexity: **O(log N)**
